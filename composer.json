@@ -1,0 +1,15 @@
+{
+    "name": "menarasolutions/geographer-nl",
+    "type": "library",
+    "description": "Dutch translations for Geographer library",
+    "keywords": ["dutch","geographer","geolocation","localization"],
+    "homepage": "https://github.com/MenaraSolutions/geographer-nl",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Denis Mysenko",
+            "email": "denis@menara.com.au",
+            "homepage": "https://www.menara.com.au"
+        }
+    ]
+}
