@@ -1,1 +1,782 @@
-[]
+ [
+	{
+        "code": "2155400",
+        "long": {
+            "default": "Nieuw-Zuid-Wales"
+        }
+    },
+    {
+        "code": "2145234",
+        "long": {
+            "default": "Victoria"
+        }
+    },
+    {
+        "code": "2152274",
+        "long": {
+            "default": "Queensland"
+        }
+    },
+    {
+        "code": "2058645",
+        "long": {
+            "default": "West-Australië"
+        }
+    },
+    {
+        "code": "2061327",
+        "long": {
+            "default": "Zuid-Australië"
+        }
+    },
+    {
+        "code": "2147291",
+        "long": {
+            "default": "Tasmanië"
+        }
+    },
+    {
+        "code": "2177478",
+        "long": {
+            "default": "Australian Capital Territory"
+        }
+    },
+    {
+        "code": "2064513",
+        "long": {
+            "default": "Noordelijk Territorium"
+        }
+    },
+    {
+        "code": "3319179",
+        "long": {
+            "default": "Flevoland"
+        }
+    },
+    {
+        "code": "2756631",
+        "long": {
+            "default": "Drenthe"
+        }
+    },
+    {
+        "code": "2755812",
+        "long": {
+            "default": "Fryslân"
+        }
+    },
+    {
+        "code": "2755634",
+        "long": {
+            "default": "Gelderland"
+        }
+    },
+    {
+        "code": "2755249",
+        "long": {
+            "default": "Groningen"
+        }
+    },
+    {
+        "code": "2751596",
+        "long": {
+            "default": "Limburg"
+        }
+    },
+    {
+        "code": "2749990",
+        "long": {
+            "default": "Noord-Brabant"
+        }
+    },
+    {
+        "code": "2749879",
+        "long": {
+            "default": "Noord-Holland"
+        }
+    },
+    {
+        "code": "2748838",
+        "long": {
+            "default": "Overijssel"
+        }
+    },
+    {
+        "code": "2745909",
+        "long": {
+            "default": "Utrecht"
+        }
+    },
+    {
+        "code": "2744011",
+        "long": {
+            "default": "Zeeland"
+        }
+    },
+    {
+        "code": "2743698",
+        "long": {
+            "default": "Zuid-Holland"
+        }
+    },
+    {
+        "code": "2761367",
+        "long": {
+            "default": "Wenen"
+        }
+    },
+    {
+        "code": "2762300",
+        "long": {
+            "default": "Vorarlberg"
+        }
+    },
+    {
+        "code": "2763586",
+        "long": {
+            "default": "Tirol"
+        }
+    },
+    {
+        "code": "2764581",
+        "long": {
+            "default": "Stiermarken"
+        }
+    },
+    {
+        "code": "2766823",
+        "long": {
+            "default": "Salzburg"
+        }
+    },
+    {
+        "code": "2769848",
+        "long": {
+            "default": "Opper-Oostenrijk"
+        }
+    },
+    {
+        "code": "2770542",
+        "long": {
+            "default": "Neder-Oostenrijk"
+        }
+    },
+    {
+        "code": "2774686",
+        "long": {
+            "default": "Karinthië"
+        }
+    },
+    {
+        "code": "2781194",
+        "long": {
+            "default": "Burgenland"
+        }
+    },
+    {
+        "code": "6269131",
+        "long": {
+            "default": "Engeland"
+        }
+    },
+    {
+        "code": "2638360",
+        "long": {
+            "default": "Schotland"
+        }
+    },
+    {
+        "code": "2641364",
+        "long": {
+            "default": "Noord-Ierland"
+        }
+    },
+    {
+        "code": "2634895",
+        "long": {
+            "default": "Wales"
+        }
+    },
+    {
+        "code": "2800867",
+        "long": {
+            "default": "Brussels"
+        }
+    },
+    {
+        "code": "3337387",
+        "long": {
+            "default": "Wallonië"
+        }
+    },
+    {
+        "code": "3337388",
+        "long": {
+            "default": "Vlaanderen"
+        }
+    },
+    {
+        "code": "2661876",
+        "long": {
+            "default": "Aargau"
+        }
+    },
+    {
+        "code": "2661741",
+        "long": {
+            "default": "Appenzell Ausserrhoden"
+        }
+    },
+    {
+        "code": "2661739",
+        "long": {
+            "default": "Appenzell Innerrhoden"
+        }
+    },
+    {
+        "code": "2661603",
+        "long": {
+            "default": "Basel-Landschaft"
+        }
+    },
+    {
+        "code": "2661602",
+        "long": {
+            "default": "Bazel-Stad"
+        }
+    },
+    {
+        "code": "2661551",
+        "long": {
+            "default": "Bern"
+        }
+    },
+    {
+        "code": "2660717",
+        "long": {
+            "default": "Freiburg"
+        }
+    },
+    {
+        "code": "2660645",
+        "long": {
+            "default": "Genf"
+        }
+    },
+    {
+        "code": "2660593",
+        "long": {
+            "default": "Glarus"
+        }
+    },
+    {
+        "code": "2660522",
+        "long": {
+            "default": "Graubünden"
+        }
+    },
+    {
+        "code": "2660207",
+        "long": {
+            "default": "Jura"
+        }
+    },
+    {
+        "code": "2659810",
+        "long": {
+            "default": "Luzern"
+        }
+    },
+    {
+        "code": "2659495",
+        "long": {
+            "default": "Neuchâtel"
+        }
+    },
+    {
+        "code": "2659471",
+        "long": {
+            "default": "Nidwalden"
+        }
+    },
+    {
+        "code": "2659315",
+        "long": {
+            "default": "Obwalden"
+        }
+    },
+    {
+        "code": "2658821",
+        "long": {
+            "default": "Sankt Gallen"
+        }
+    },
+    {
+        "code": "2658760",
+        "long": {
+            "default": "Schaffhausen"
+        }
+    },
+    {
+        "code": "2658664",
+        "long": {
+            "default": "Schwyz"
+        }
+    },
+    {
+        "code": "2658563",
+        "long": {
+            "default": "Solothurn"
+        }
+    },
+    {
+        "code": "2658372",
+        "long": {
+            "default": "Thurgau"
+        }
+    },
+    {
+        "code": "2658370",
+        "long": {
+            "default": "Tessin"
+        }
+    },
+    {
+        "code": "2658226",
+        "long": {
+            "default": "Uri"
+        }
+    },
+    {
+        "code": "2658205",
+        "long": {
+            "default": "Wallis"
+        }
+    },
+    {
+        "code": "2658182",
+        "long": {
+            "default": "Vaud"
+        }
+    },
+    {
+        "code": "2657907",
+        "long": {
+            "default": "Zug"
+        }
+    },
+    {
+        "code": "2657895",
+        "long": {
+            "default": "Zürich"
+        }
+    },
+    {
+        "code": "2513413",
+        "long": {
+            "default": "Murcia"
+        }
+    },
+    {
+        "code": "2519582",
+        "long": {
+            "default": "Ceuta"
+        }
+    },
+    {
+        "code": "2521383",
+        "long": {
+            "default": "Baleoarn"
+        }
+    },
+    {
+        "code": "2593109",
+        "long": {
+            "default": "Andalusië"
+        }
+    },
+    {
+        "code": "2593110",
+        "long": {
+            "default": "Canoarische Eilandn"
+        }
+    },
+    {
+        "code": "2593111",
+        "long": {
+            "default": "Castilië-La Mancha"
+        }
+    },
+    {
+        "code": "2593112",
+        "long": {
+            "default": "Extremadura"
+        }
+    },
+    {
+        "code": "2593113",
+        "long": {
+            "default": "Valencia"
+        }
+    },
+    {
+        "code": "3114710",
+        "long": {
+            "default": "Asturië"
+        }
+    },
+    {
+        "code": "3115609",
+        "long": {
+            "default": "Navarra"
+        }
+    },
+    {
+        "code": "3117732",
+        "long": {
+            "default": "Madrid"
+        }
+    },
+    {
+        "code": "3336897",
+        "long": {
+            "default": "La Rioja"
+        }
+    },
+    {
+        "code": "3336898",
+        "long": {
+            "default": "Cantoabrië"
+        }
+    },
+    {
+        "code": "3336899",
+        "long": {
+            "default": "Aragon"
+        }
+    },
+    {
+        "code": "3336900",
+        "long": {
+            "default": "Castilië en León"
+        }
+    },
+    {
+        "code": "3336901",
+        "long": {
+            "default": "Catalonië"
+        }
+    },
+    {
+        "code": "3336902",
+        "long": {
+            "default": "Galicië"
+        }
+    },
+    {
+        "code": "3336903",
+        "long": {
+            "default": "Basknland"
+        }
+    },
+    {
+        "code": "6362988",
+        "long": {
+            "default": "Melilla"
+        }
+    },
+    {
+        "code": "2953481",
+        "long": {
+            "default": "Baden-Württemberg"
+        }
+    },
+    {
+        "code": "2951839",
+        "long": {
+            "default": "Beieren"
+        }
+    },
+    {
+        "code": "2950157",
+        "long": {
+            "default": "Berlijn"
+        }
+    },
+    {
+        "code": "2945356",
+        "long": {
+            "default": "Brandenburg"
+        }
+    },
+    {
+        "code": "2944387",
+        "long": {
+            "default": "Bremen"
+        }
+    },
+    {
+        "code": "2911297",
+        "long": {
+            "default": "Hamburg"
+        }
+    },
+    {
+        "code": "2905330",
+        "long": {
+            "default": "Hessen"
+        }
+    },
+    {
+        "code": "2872567",
+        "long": {
+            "default": "Mecklenburg-Voor-Pommeren"
+        }
+    },
+    {
+        "code": "2862926",
+        "long": {
+            "default": "Nedersaksen"
+        }
+    },
+    {
+        "code": "2861876",
+        "long": {
+            "default": "Noordrijn-Westfalen"
+        }
+    },
+    {
+        "code": "2847618",
+        "long": {
+            "default": "Rijnland-Palts"
+        }
+    },
+    {
+        "code": "2842635",
+        "long": {
+            "default": "Saarland"
+        }
+    },
+    {
+        "code": "2842566",
+        "long": {
+            "default": "Saksen"
+        }
+    },
+    {
+        "code": "2842565",
+        "long": {
+            "default": "Saksen-Anhalt"
+        }
+    },
+    {
+        "code": "2838632",
+        "long": {
+            "default": "Sleeswijk-Holstein"
+        }
+    },
+    {
+        "code": "2822542",
+        "long": {
+            "default": "Thüringen"
+        }
+    },
+    {
+        "code": "5883102",
+        "long": {
+            "default": "Alberta"
+        }
+    },
+    {
+        "code": "5909050",
+        "long": {
+            "default": "British Columbia"
+        }
+    },
+    {
+        "code": "6065171",
+        "long": {
+            "default": "Manitoba"
+        }
+    },
+    {
+        "code": "6087430",
+        "long": {
+            "default": "New Brunswick"
+        }
+    },
+    {
+        "code": "6091069",
+        "long": {
+            "default": "Northwest Territories"
+        }
+    },
+    {
+        "code": "6091530",
+        "long": {
+            "default": "Nova Scotia"
+        }
+    },
+    {
+        "code": "6091732",
+        "long": {
+            "default": "Nunavut"
+        }
+    },
+    {
+        "code": "6093943",
+        "long": {
+            "default": "Ontario"
+        }
+    },
+    {
+        "code": "6113358",
+        "long": {
+            "default": "Prince Edward Island"
+        }
+    },
+    {
+        "code": "6115047",
+        "long": {
+            "default": "Quebec"
+        }
+    },
+    {
+        "code": "6141242",
+        "long": {
+            "default": "Saskatchewan"
+        }
+    },
+    {
+        "code": "6185811",
+        "long": {
+            "default": "Yukon"
+        }
+    },
+    {
+        "code": "6354959",
+        "long": {
+            "default": "Newfoundland en Labrador"
+        }
+    },
+    {
+        "code": "2523119",
+        "long": {
+            "default": "Sicilië"
+        }
+    },
+    {
+        "code": "2523228",
+        "long": {
+            "default": "Sardinië"
+        }
+    },
+    {
+        "code": "3164857",
+        "long": {
+            "default": "Valle d'Aosta"
+        }
+    },
+    {
+        "code": "3165244",
+        "long": {
+            "default": "Trentino-Zuid-Tirol"
+        }
+    },
+    {
+        "code": "3176525",
+        "long": {
+            "default": "Friuli-Venezia Giulia"
+        }
+    },
+    {
+        "code": "3170831",
+        "long": {
+            "default": "Piëmont"
+        }
+    },
+    {
+        "code": "3174618",
+        "long": {
+            "default": "Lombardije"
+        }
+    },
+    {
+        "code": "3174725",
+        "long": {
+            "default": "Ligurië"
+        }
+    },
+    {
+        "code": "3164604",
+        "long": {
+            "default": "Veneto"
+        }
+    },
+    {
+        "code": "3177401",
+        "long": {
+            "default": "Emilia-Romagna"
+        }
+    },
+    {
+        "code": "3165361",
+        "long": {
+            "default": "Toscane"
+        }
+    },
+    {
+        "code": "3165048",
+        "long": {
+            "default": "Umbrië"
+        }
+    },
+    {
+        "code": "3174004",
+        "long": {
+            "default": "Marche"
+        }
+    },
+    {
+        "code": "3174976",
+        "long": {
+            "default": "Latium"
+        }
+    },
+    {
+        "code": "3183560",
+        "long": {
+            "default": "Abruzzen"
+        }
+    },
+    {
+        "code": "3173222",
+        "long": {
+            "default": "Molise"
+        }
+    },
+    {
+        "code": "3181042",
+        "long": {
+            "default": "Campanië"
+        }
+    },
+    {
+        "code": "3169778",
+        "long": {
+            "default": "Apulië"
+        }
+    },
+    {
+        "code": "3182306",
+        "long": {
+            "default": "Basilicata"
+        }
+    },
+    {
+        "code": "2525468",
+        "long": {
+            "default": "Calabrië"
+        }
+    }
+]
