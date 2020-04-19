@@ -8,7 +8,7 @@
     {
         "code": "AX",
         "long": {
-            "default": "Aland-eilanden"
+            "default": "Åland"
         }
     },
     {
@@ -26,7 +26,7 @@
     {
         "code": "AS",
         "long": {
-            "default": "Amerikaans Samoa"
+            "default": "Amerikaans-Samoa"
         }
     },
     {
@@ -44,31 +44,31 @@
     {
         "code": "AI",
         "long": {
-            "default": "Anguila"
+            "default": "Anguilla"
         }
     },
     {
         "code": "AQ",
         "long": {
-            "default": "Antártida"
+            "default": "Antarctica"
         }
     },
     {
         "code": "AG",
         "long": {
-            "default": "Antigua y Barbuda"
+            "default": "Antigua en Barbuda"
         }
     },
     {
         "code": "AR",
         "long": {
-            "default": "Argentina"
+            "default": "Argentinië"
         }
     },
     {
         "code": "AM",
         "long": {
-            "default": "Armenia"
+            "default": "Armenië"
         }
     },
     {
@@ -80,31 +80,31 @@
     {
         "code": "AU",
         "long": {
-            "default": "Australia"
+            "default": "Australië"
         }
     },
     {
         "code": "AT",
         "long": {
-            "default": "Austria"
+            "default": "Oostenrijk"
         }
     },
     {
         "code": "AZ",
         "long": {
-            "default": "Azerbaiyán"
+            "default": "Azerbeidzjan"
         }
     },
     {
         "code": "BS",
         "long": {
-            "default": "Bahamas"
+            "default": "Bahama’s"
         }
     },
     {
         "code": "BH",
         "long": {
-            "default": "Bahréin"
+            "default": "Bahrein"
         }
     },
     {
@@ -122,25 +122,25 @@
     {
         "code": "BY",
         "long": {
-            "default": "Bielorrusia"
+            "default": "Wit-Rusland"
         }
     },
     {
         "code": "BE",
         "long": {
-            "default": "Bélgica"
+            "default": "België"
         }
     },
     {
         "code": "BZ",
         "long": {
-            "default": "Belice"
+            "default": "Belize"
         }
     },
     {
         "code": "BJ",
         "long": {
-            "default": "Benín"
+            "default": "Benin"
         }
     },
     {
@@ -152,7 +152,7 @@
     {
         "code": "BT",
         "long": {
-            "default": "Bután"
+            "default": "Bhutan"
         }
     },
     {
@@ -164,49 +164,49 @@
     {
         "code": "BQ",
         "long": {
-            "default": "Municipio Especial de Bonaire"
+            "default": "Bonaire"
         }
     },
     {
         "code": "BA",
         "long": {
-            "default": "Bosnia y Herzegovina"
+            "default": "Bosnië en Herzegovina"
         }
     },
     {
         "code": "BW",
         "long": {
-            "default": "Botsuana"
+            "default": "Botswana"
         }
     },
     {
         "code": "BV",
         "long": {
-            "default": "Isla Bouvet"
+            "default": "Bouveteiland"
         }
     },
     {
         "code": "BR",
         "long": {
-            "default": "Brasil"
+            "default": "Brazilië"
         }
     },
     {
         "code": "IO",
         "long": {
-            "default": "Territorio Británico del Océano Índico"
+            "default": "Brits Indische Oceaanterritorium"
         }
     },
     {
         "code": "BN",
         "long": {
-            "default": "Brunéi"
+            "default": "Brunei"
         }
     },
     {
         "code": "BG",
         "long": {
-            "default": "Bulgaria"
+            "default": "Bulgarije"
         }
     },
     {
@@ -224,67 +224,67 @@
     {
         "code": "CV",
         "long": {
-            "default": "Cabo Verde"
+            "default": "Kaapverdië"
         }
     },
     {
         "code": "KH",
         "long": {
-            "default": "Camboya"
+            "default": "Cambodja"
         }
     },
     {
         "code": "CM",
         "long": {
-            "default": "Camerún"
+            "default": "Kameroen"
         }
     },
     {
         "code": "CA",
         "long": {
-            "default": "Canadá"
+            "default": "Canada"
         }
     },
     {
         "code": "KY",
         "long": {
-            "default": "Islas Caimán"
+            "default": "Kaaimaneilanden"
         }
     },
     {
         "code": "CF",
         "long": {
-            "default": "República Centroafricana"
+            "default": "Centraal-Afrikaanse Republiek"
         }
     },
     {
         "code": "TD",
         "long": {
-            "default": "Chad"
+            "default": "Tsjaad"
         }
     },
     {
         "code": "CL",
         "long": {
-            "default": "Chile"
+            "default": "Chili"
         }
     },
     {
         "code": "CN",
         "long": {
-            "default": "República Popular China"
+            "default": "China"
         }
     },
     {
         "code": "CX",
         "long": {
-            "default": "Isla Christmas"
+            "default": "Christmaseiland"
         }
     },
     {
         "code": "CC",
         "long": {
-            "default": "Islas Cocos"
+            "default": "Cocoseilanden"
         }
     },
     {
@@ -296,25 +296,25 @@
     {
         "code": "KM",
         "long": {
-            "default": "Comoras"
+            "default": "Comoren"
         }
     },
     {
         "code": "CG",
         "long": {
-            "default": "República Congo"
+            "default": "Congo-Brazzaville"
         }
     },
     {
         "code": "CD",
         "long": {
-            "default": "Congo Democrático"
+            "default": "Congo-Kinshasa"
         }
     },
     {
         "code": "CK",
         "long": {
-            "default": "Islas Cook"
+            "default": "Cookeilanden"
         }
     },
     {
@@ -326,49 +326,49 @@
     {
         "code": "CI",
         "long": {
-            "default": "Costa de Marfil"
+            "default": "Ivoorkust"
         }
     },
     {
         "code": "HR",
         "long": {
-            "default": "Croacia"
+            "default": "Kroatië"
         }
     },
     {
         "code": "CU",
         "long": {
-            "default": "República de Cuba"
+            "default": "Cuba"
         }
     },
     {
         "code": "CW",
         "long": {
-            "default": "País de Curazao"
+            "default": "Curaçao"
         }
     },
     {
         "code": "CY",
         "long": {
-            "default": "Chipre"
+            "default": "Cyprus"
         }
     },
     {
         "code": "CZ",
         "long": {
-            "default": "República Checa"
+            "default": "Tsjechië"
         }
     },
     {
         "code": "DK",
         "long": {
-            "default": "Dinamarca"
+            "default": "Denemarken"
         }
     },
     {
         "code": "DJ",
         "long": {
-            "default": "Yibuti"
+            "default": "Djibouti"
         }
     },
     {
@@ -380,7 +380,7 @@
     {
         "code": "DO",
         "long": {
-            "default": "República de Santo Domingo"
+            "default": "Dominicaanse Republiek"
         }
     },
     {
@@ -392,7 +392,7 @@
     {
         "code": "EG",
         "long": {
-            "default": "Egipto"
+            "default": "Egypte"
         }
     },
     {
@@ -404,7 +404,7 @@
     {
         "code": "GQ",
         "long": {
-            "default": "República de Guinea Ecuatorial"
+            "default": "Equatoriaal-Guinea"
         }
     },
     {
@@ -416,67 +416,67 @@
     {
         "code": "EE",
         "long": {
-            "default": "Estonia"
+            "default": "Estland"
         }
     },
     {
         "code": "ET",
         "long": {
-            "default": "Etiopía"
+            "default": "Ethiopië"
         }
     },
     {
         "code": "FK",
         "long": {
-            "default": "Islas Malvinas"
+            "default": "Falklandeilanden"
         }
     },
     {
         "code": "FO",
         "long": {
-            "default": "Islas Feroe"
+            "default": "Faeröer"
         }
     },
     {
         "code": "FJ",
         "long": {
-            "default": "Fiyi"
+            "default": "Fiji"
         }
     },
     {
         "code": "FI",
         "long": {
-            "default": "Finlandia"
+            "default": "Finland"
         }
     },
     {
         "code": "FR",
         "long": {
-            "default": "Francia"
+            "default": "Frankrijk"
         }
     },
     {
         "code": "GF",
         "long": {
-            "default": "Guayana Francesa"
+            "default": "Frans-Guyana"
         }
     },
     {
         "code": "PF",
         "long": {
-            "default": "Polinesia Francesa"
+            "default": "Frans-Polynesië"
         }
     },
     {
         "code": "TF",
         "long": {
-            "default": "Territorios Australes Franceses"
+            "default": "Franse Zuidelijke en Antarctische Gebieden"
         }
     },
     {
         "code": "GA",
         "long": {
-            "default": "Gabón"
+            "default": "Gabon"
         }
     },
     {
@@ -488,13 +488,13 @@
     {
         "code": "GE",
         "long": {
-            "default": "Georgia"
+            "default": "Georgië"
         }
     },
     {
         "code": "DE",
         "long": {
-            "default": "Alemania"
+            "default": "Duitsland"
         }
     },
     {
@@ -512,25 +512,25 @@
     {
         "code": "GR",
         "long": {
-            "default": "Grecia"
+            "default": "Griekenland"
         }
     },
     {
         "code": "GL",
         "long": {
-            "default": "Groenlandia"
+            "default": "Groenland"
         }
     },
     {
         "code": "GD",
         "long": {
-            "default": "Granada"
+            "default": "Grenada"
         }
     },
     {
         "code": "GP",
         "long": {
-            "default": "Guadalupe"
+            "default": "Guadeloupe"
         }
     },
     {
@@ -560,7 +560,7 @@
     {
         "code": "GW",
         "long": {
-            "default": "Guinea-Bissáu"
+            "default": "Guinee-Bissau"
         }
     },
     {
@@ -572,19 +572,19 @@
     {
         "code": "HT",
         "long": {
-            "default": "Haití"
+            "default": "Haïti"
         }
     },
     {
         "code": "HM",
         "long": {
-            "default": "Islas Heard y McDonald"
+            "default": "Heard- en McDonaldeilanden"
         }
     },
     {
         "code": "VA",
         "long": {
-            "default": "Ciudad del Vaticano"
+            "default": "Vaticaanstad"
         }
     },
     {
@@ -596,67 +596,67 @@
     {
         "code": "HK",
         "long": {
-            "default": "Hong Kong"
+            "default": "Hongkong"
         }
     },
     {
         "code": "HU",
         "long": {
-            "default": "Hungría"
+            "default": "Hongarije"
         }
     },
     {
         "code": "IS",
         "long": {
-            "default": "Islandia"
+            "default": "IJsland"
         }
     },
     {
         "code": "IN",
         "long": {
-            "default": "India"
+            "default": "Indië"
         }
     },
     {
         "code": "ID",
         "long": {
-            "default": "Indonesia"
+            "default": "Indonesië"
         }
     },
     {
         "code": "IR",
         "long": {
-            "default": "Irán (República Islámica)"
+            "default": "Iran"
         }
     },
     {
         "code": "IQ",
         "long": {
-            "default": "Iraq"
+            "default": "Irak"
         }
     },
     {
         "code": "IE",
         "long": {
-            "default": "República de Irlanda"
+            "default": "Ierland"
         }
     },
     {
         "code": "IM",
         "long": {
-            "default": "Isla de Man"
+            "default": "Isle of Man"
         }
     },
     {
         "code": "IL",
         "long": {
-            "default": "Israel"
+            "default": "Israël"
         }
     },
     {
         "code": "IT",
         "long": {
-            "default": "Italia"
+            "default": "Italië"
         }
     },
     {
@@ -668,7 +668,7 @@
     {
         "code": "JP",
         "long": {
-            "default": "Japón"
+            "default": "Japan"
         }
     },
     {
@@ -680,13 +680,13 @@
     {
         "code": "JO",
         "long": {
-            "default": "Jordania"
+            "default": "Jordanië"
         }
     },
     {
         "code": "KZ",
         "long": {
-            "default": "Kazajstán"
+            "default": "Kazachstan"
         }
     },
     {
@@ -704,25 +704,25 @@
     {
         "code": "KP",
         "long": {
-            "default": "Corea del Norte"
+            "default": "Noord-Korea"
         }
     },
     {
         "code": "KR",
         "long": {
-            "default": "República de Corea"
+            "default": "Zuid-Korea"
         }
     },
     {
         "code": "KW",
         "long": {
-            "default": "Kuwait"
+            "default": "Koeweit"
         }
     },
     {
         "code": "KG",
         "long": {
-            "default": "Kirguistán"
+            "default": "Kirgizië"
         }
     },
     {
@@ -734,13 +734,13 @@
     {
         "code": "LV",
         "long": {
-            "default": "Letonia"
+            "default": "Letland"
         }
     },
     {
         "code": "LB",
         "long": {
-            "default": "Líbano"
+            "default": "Libanon"
         }
     },
     {
@@ -758,7 +758,7 @@
     {
         "code": "LY",
         "long": {
-            "default": "Libia, República Árabe"
+            "default": "Libië"
         }
     },
     {
@@ -770,49 +770,49 @@
     {
         "code": "LT",
         "long": {
-            "default": "Lituania"
+            "default": "Litouwen"
         }
     },
     {
         "code": "LU",
         "long": {
-            "default": "Luxemburgo"
+            "default": "Luxemburg"
         }
     },
     {
         "code": "MO",
         "long": {
-            "default": "Macao"
+            "default": "Macau"
         }
     },
     {
         "code": "MK",
         "long": {
-            "default": "Macedonia, Antigua República Yugoslava"
+            "default": "Noord-Macedonië"
         }
     },
     {
         "code": "MG",
         "long": {
-            "default": "Madagascar"
+            "default": "Madagaskar"
         }
     },
     {
         "code": "MW",
         "long": {
-            "default": "Malaui"
+            "default": "Malawi"
         }
     },
     {
         "code": "MY",
         "long": {
-            "default": "Malasia"
+            "default": "Maleisië"
         }
     },
     {
         "code": "MV",
         "long": {
-            "default": "Maldivas"
+            "default": "Maldiven"
         }
     },
     {
@@ -830,25 +830,25 @@
     {
         "code": "MH",
         "long": {
-            "default": "Islas Marshall"
+            "default": "Marshalleilanden"
         }
     },
     {
         "code": "MQ",
         "long": {
-            "default": "Martinica"
+            "default": "Martinique"
         }
     },
     {
         "code": "MR",
         "long": {
-            "default": "Mauritania"
+            "default": "Mauritanië"
         }
     },
     {
         "code": "MU",
         "long": {
-            "default": "Mauricio"
+            "default": "Mauritius"
         }
     },
     {
@@ -860,31 +860,31 @@
     {
         "code": "MX",
         "long": {
-            "default": "México"
+            "default": "Mexico"
         }
     },
     {
         "code": "FM",
         "long": {
-            "default": "Micronesia"
+            "default": "Micronesië"
         }
     },
     {
         "code": "MD",
         "long": {
-            "default": "Moldavia"
+            "default": "Moldavië"
         }
     },
     {
         "code": "MC",
         "long": {
-            "default": "Principado de Mónaco"
+            "default": "Monaco"
         }
     },
     {
         "code": "MN",
         "long": {
-            "default": "Mongolia"
+            "default": "Mongolië"
         }
     },
     {
@@ -902,7 +902,7 @@
     {
         "code": "MA",
         "long": {
-            "default": "Reino de Marruecos"
+            "default": "Marokko"
         }
     },
     {
@@ -914,13 +914,13 @@
     {
         "code": "MM",
         "long": {
-            "default": "Myanmar [Birmania]"
+            "default": "Myanmar"
         }
     },
     {
         "code": "NA",
         "long": {
-            "default": "Namibia"
+            "default": "Namibië"
         }
     },
     {
@@ -938,31 +938,31 @@
     {
         "code": "NL",
         "long": {
-            "default": "Holanda"
+            "default": "Nederland"
         }
     },
     {
         "code": "NC",
         "long": {
-            "default": "Nueva Caledonia"
+            "default": "Nieuw-Caledonië"
         }
     },
     {
         "code": "NZ",
         "long": {
-            "default": "Nueva Zelanda"
+            "default": "Nieuw-Zeeland"
         }
     },
     {
         "code": "NI",
         "long": {
-            "default": "República de Nicaragua"
+            "default": "Nicaragua"
         }
     },
     {
         "code": "NE",
         "long": {
-            "default": "Níger"
+            "default": "Niger"
         }
     },
     {
@@ -974,61 +974,61 @@
     {
         "code": "NU",
         "long": {
-            "default": "Isla Niue"
+            "default": "Niue"
         }
     },
     {
         "code": "NF",
         "long": {
-            "default": "Isla Norfolk"
+            "default": "Territorium Norfolkeiland"
         }
     },
     {
         "code": "MP",
         "long": {
-            "default": "Islas Marianas del Norte"
+            "default": "Noordelijke Marianen"
         }
     },
     {
         "code": "NO",
         "long": {
-            "default": "Noruega"
+            "default": "Noorwegen"
         }
     },
     {
         "code": "OM",
         "long": {
-            "default": "Omán"
+            "default": "Oman"
         }
     },
     {
         "code": "PK",
         "long": {
-            "default": "Pakistán"
+            "default": "Pakistan"
         }
     },
     {
         "code": "PW",
         "long": {
-            "default": "Palaos"
+            "default": "Palau"
         }
     },
     {
         "code": "PS",
         "long": {
-            "default": "Territorios Palestinos"
+            "default": "Palestina"
         }
     },
     {
         "code": "PA",
         "long": {
-            "default": "Panamá"
+            "default": "Panama"
         }
     },
     {
         "code": "PG",
         "long": {
-            "default": "Papúa-Nueva Guinea"
+            "default": "Papoea-Nieuw-Guinea"
         }
     },
     {
@@ -1040,25 +1040,25 @@
     {
         "code": "PE",
         "long": {
-            "default": "Perú"
+            "default": "Peru"
         }
     },
     {
         "code": "PH",
         "long": {
-            "default": "Filipinas"
+            "default": "Filipijnen"
         }
     },
     {
         "code": "PN",
         "long": {
-            "default": "Islas Pitcairn"
+            "default": "Pitcairneilanden"
         }
     },
     {
         "code": "PL",
         "long": {
-            "default": "Polonia"
+            "default": "Polen"
         }
     },
     {
@@ -1082,67 +1082,67 @@
     {
         "code": "RE",
         "long": {
-            "default": "Reunión"
+            "default": "Réunion"
         }
     },
     {
         "code": "RO",
         "long": {
-            "default": "Rumanía"
+            "default": "Roemenië"
         }
     },
     {
         "code": "RU",
         "long": {
-            "default": "Rusia"
+            "default": "Rusland"
         }
     },
     {
         "code": "RW",
         "long": {
-            "default": "Ruanda"
+            "default": "Rwanda"
         }
     },
     {
         "code": "BL",
         "long": {
-            "default": "San Bartolomé"
+            "default": "Saint-Barthélemy"
         }
     },
     {
         "code": "SH",
         "long": {
-            "default": "Santa Elena"
+            "default": "Sint-Helena"
         }
     },
     {
         "code": "KN",
         "long": {
-            "default": "San Cristóbal y Nieves"
+            "default": "Saint Kitts en Nevis"
         }
     },
     {
         "code": "LC",
         "long": {
-            "default": "Santa Lucía"
+            "default": "Saint Lucia"
         }
     },
     {
         "code": "MF",
         "long": {
-            "default": "San Martín"
+            "default": "Saint Martin"
         }
     },
     {
         "code": "PM",
         "long": {
-            "default": "San Pedro y Miquelón"
+            "default": "Saint-Pierre en Miquelon"
         }
     },
     {
         "code": "VC",
         "long": {
-            "default": "San Vicente y las Granadinas"
+            "default": "Saint Vincent en de Grenadines"
         }
     },
     {
@@ -1160,13 +1160,13 @@
     {
         "code": "ST",
         "long": {
-            "default": "Santo Tomé y Príncipe"
+            "default": "Sao Tomé en Principe"
         }
     },
     {
         "code": "SA",
         "long": {
-            "default": "Arabia Saudita"
+            "default": "Saudi-Arabië"
         }
     },
     {
@@ -1178,79 +1178,79 @@
     {
         "code": "RS",
         "long": {
-            "default": "Serbia"
+            "default": "Servië"
         }
     },
     {
         "code": "SC",
         "long": {
-            "default": "Seychelles"
+            "default": "Seychellen"
         }
     },
     {
         "code": "SL",
         "long": {
-            "default": "Sierra Leona"
+            "default": "Sierra Leone"
         }
     },
     {
         "code": "SG",
         "long": {
-            "default": "Singapur"
+            "default": "Singapore"
         }
     },
     {
         "code": "SX",
         "long": {
-            "default": "Isla de San Martín"
+            "default": "Sint Maarten"
         }
     },
     {
         "code": "SK",
         "long": {
-            "default": "República Eslovaca"
+            "default": "Slowakije"
         }
     },
     {
         "code": "SI",
         "long": {
-            "default": "Eslovenia"
+            "default": "Slovenië"
         }
     },
     {
         "code": "SB",
         "long": {
-            "default": "Islas Salomón"
+            "default": "Salomonseilanden"
         }
     },
     {
         "code": "SO",
         "long": {
-            "default": "Somalia"
+            "default": "Somalië"
         }
     },
     {
         "code": "ZA",
         "long": {
-            "default": "Sudáfrica"
+            "default": "Zuid-Afrika"
         }
     },
     {
         "code": "GS",
         "long": {
-            "default": "Islas Georgia del Sur y Sandwich del Sur"
+            "default": "Zuid-Georgia en de Zuidelijke Sandwicheilanden"
         }
     },
     {
         "code": "SS",
         "long": {
-            "default": "República de Sudán del Sur"
+            "default": "Zuid-Soedan"
         }
     },
     {
         "code": "ES",
         "long": {
-            "default": "España"
+            "default": "Spanje"
         }
     },
     {
@@ -1262,55 +1262,55 @@
     {
         "code": "SD",
         "long": {
-            "default": "Sudán"
+            "default": "Soedan"
         }
     },
     {
         "code": "SR",
         "long": {
-            "default": "Surinam"
+            "default": "Suriname"
         }
     },
     {
         "code": "SJ",
         "long": {
-            "default": "Svalbard y Jan Mayen"
+            "default": "Spitsbergen"
         }
     },
     {
         "code": "SZ",
         "long": {
-            "default": "Suazilandia"
+            "default": "Swaziland"
         }
     },
     {
         "code": "SE",
         "long": {
-            "default": "Suecia"
+            "default": "Zweden"
         }
     },
     {
         "code": "CH",
         "long": {
-            "default": "Suiza"
+            "default": "Zwitserland"
         }
     },
     {
         "code": "SY",
         "long": {
-            "default": "Siria"
+            "default": "Syrië"
         }
     },
     {
         "code": "TW",
         "long": {
-            "default": "Taiwán"
+            "default": "Taiwan"
         }
     },
     {
         "code": "TJ",
         "long": {
-            "default": "Tayikistán"
+            "default": "Tadzjikistan"
         }
     },
     {
@@ -1322,13 +1322,13 @@
     {
         "code": "TH",
         "long": {
-            "default": "Tailandia"
+            "default": "Thailand"
         }
     },
     {
         "code": "TL",
         "long": {
-            "default": "Timor Oriental"
+            "default": "Oost-Timor"
         }
     },
     {
@@ -1352,31 +1352,31 @@
     {
         "code": "TT",
         "long": {
-            "default": "Trinidad y Tobago"
+            "default": "Trinidad en Tobago"
         }
     },
     {
         "code": "TN",
         "long": {
-            "default": "Túnez"
+            "default": "Tunesië"
         }
     },
     {
         "code": "TR",
         "long": {
-            "default": "Turquía"
+            "default": "Turkije"
         }
     },
     {
         "code": "TM",
         "long": {
-            "default": "Turkmenistán"
+            "default": "Turkmenistan"
         }
     },
     {
         "code": "TC",
         "long": {
-            "default": "Islas Turcas y Caicos"
+            "default": "Turks- en Caicoseilanden"
         }
     },
     {
@@ -1388,37 +1388,37 @@
     {
         "code": "UG",
         "long": {
-            "default": "Uganda"
+            "default": "Oeganda"
         }
     },
     {
         "code": "UA",
         "long": {
-            "default": "Ucrania"
+            "default": "Oekraïne"
         }
     },
     {
         "code": "AE",
         "long": {
-            "default": "Emiratos Árabes Unidos"
+            "default": "Verenigde Arabische Emiraten"
         }
     },
     {
         "code": "GB",
         "long": {
-            "default": "Reino Unido"
+            "default": "Verenigd Koninkrijk"
         }
     },
     {
         "code": "US",
         "long": {
-            "default": "Estados Unidos"
+            "default": "Verenigde Staten"
         }
     },
     {
         "code": "UM",
         "long": {
-            "default": "Islas menores alejadas de los Estados Unidos"
+            "default": "Kleine Afgelegen Eilanden van de Verenigde Staten"
         }
     },
     {
@@ -1430,7 +1430,7 @@
     {
         "code": "UZ",
         "long": {
-            "default": "Uzbekistán"
+            "default": "Oezbekistan"
         }
     },
     {
@@ -1454,31 +1454,31 @@
     {
         "code": "VG",
         "long": {
-            "default": "Islas Vírgenes Británicas"
+            "default": "Britse Maagdeneilanden"
         }
     },
     {
         "code": "VI",
         "long": {
-            "default": "Islas Vírgenes de los Estados Unidos"
+            "default": "Amerikaanse Maagdeneilanden"
         }
     },
     {
         "code": "WF",
         "long": {
-            "default": "Wallis y Futuna"
+            "default": "Wallis en Futuna"
         }
     },
     {
         "code": "EH",
         "long": {
-            "default": "República Árabe Saharaui Democrática"
+            "default": "Westelijke Sahara"
         }
     },
     {
         "code": "YE",
         "long": {
-            "default": "Yemen"
+            "default": "Jemen"
         }
     },
     {
@@ -1490,7 +1490,7 @@
     {
         "code": "ZW",
         "long": {
-            "default": "Zimbawe"
+            "default": "Zimbabwe"
         }
     }
 ]
